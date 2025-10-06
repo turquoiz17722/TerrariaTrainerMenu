@@ -2,13 +2,14 @@ Client-Sided Mods:
 
 IN ALL CLIENT SIDED MODS, THEY WILL EITHER NOT WORK MUCH OR AT ALL IN MULTIPLAYER SERVERS. DO NOT EXPECT THESE TO WORK OUTSIDE OF SINGLEPLAYER.
 
-Godmode - When enabled, you will not be able to drown, take most effect damages, take damage from entities such as bosses, or be able to take fall damage
-Mana Evasion -  Ok so this does work in MP servers but its labeled here as CS because it doesn't affect gameplay that much. It basically just makes it so that mana doesn't go down
-Bucket Evasion - Not confirmed to work in MP, but in SP, it makes it so when you use a bucket, the number of buckets you have doesn't go down
-Insta Break - Not confirmed to work in only SP either, but this just makes it so when you hit a tile, it breaks immediately, dealing 255 damage to the tile
-Infinite Items - Makes it so when you place a tile or use a potion, the amount doesn't go down, and if you try to swap a tile for another you will actually gain one
-Insta Kill - Confirmed SP only, it makes it so you set the entity's health you hit to 0
-Freeze Time - Sometimes this doesn't work right, but it only works in SP, and it just makes time stop going forward
+Godmode - When enabled, you will not be able to drown, take most effect damages, take damage from entities such as bosses, or be able to take fall damage.
+Mana Evasion -  Ok so this does work in MP servers but its labeled here as CS because it doesn't affect gameplay that much. It basically just makes it so that mana doesn't go down.
+Bucket Evasion - Not confirmed to work in MP, but in SP, it makes it so when you use a bucket, the number of buckets you have doesn't go down.
+Insta Break - Not confirmed to work in only SP either, but this just makes it so when you hit a tile, it breaks immediately, dealing 255 damage to the tile.
+Infinite Items - Makes it so when you place a tile or use a potion, the amount doesn't go down, and if you try to swap a tile for another you will actually gain one.
+Insta Kill - Confirmed SP only, it makes it so you set the entity's health you hit to 0.
+Freeze Time - Sometimes this doesn't work right, but it only works in SP, and it just makes time stop going forward.
+Inverted Gravity - When clicked, it inverts your gravity. Can be used on MP if you have the gravitation potion buff.
 
 Server-Sided Mods:
 
