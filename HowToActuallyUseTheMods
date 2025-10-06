@@ -2,13 +2,13 @@ Client-Sided Mods:
 
 IN ALL CLIENT SIDED MODS, THEY WILL EITHER NOT WORK MUCH OR AT ALL IN MULTIPLAYER SERVERS. DO NOT EXPECT THESE TO WORK OUTSIDE OF SINGLEPLAYER.
 
-Godmode - When enabled, you will not be able to drown, task most effect damages, take damage from entities such as bosses, or be able to take fall damage
-Mana Evasion -  Ok so this does work in MP servers but its labeled here as CS because it doesnt effect gameplay that much. It basically just makes it so that mana doesnt go down
-Bucket Evasion - Not confirmed to work in MP, but in SP, it makes it so when you use a bucket, the number of buckets you have doesnt go down
+Godmode - When enabled, you will not be able to drown, take most effect damages, take damage from entities such as bosses, or be able to take fall damage
+Mana Evasion -  Ok so this does work in MP servers but its labeled here as CS because it doesn't affect gameplay that much. It basically just makes it so that mana doesn't go down
+Bucket Evasion - Not confirmed to work in MP, but in SP, it makes it so when you use a bucket, the number of buckets you have doesn't go down
 Insta Break - Not confirmed to work in only SP either, but this just makes it so when you hit a tile, it breaks immediately, dealing 255 damage to the tile
-Infinite Items - Makes it so when you place a tile or use a potion, the amounbt doesnt go down, and if you try to swap a tile for another you will actually gain one
+Infinite Items - Makes it so when you place a tile or use a potion, the amount doesn't go down, and if you try to swap a tile for another you will actually gain one
 Insta Kill - Confirmed SP only, it makes it so you set the entity's health you hit to 0
-Freeze Time - Sometimes this doesnt work right, but it only works in SP, and it just makes time stop going forward
+Freeze Time - Sometimes this doesn't work right, but it only works in SP, and it just makes time stop going forward
 
 Server-Sided Mods:
 
@@ -16,8 +16,8 @@ IN ALL SERVER SIDED MODS, THEY WILL EITHER ENTIRELY OR MOSTLY WORK IN MULTIPLAYE
 
 Infinite Double Jump - Makes it so you can jump infinitely when having a cloud in a bottle equipped
 Craft Anything - Makes it so when you update your crafting recipes by reopening your inventory, you can craft any item in the game that can be crafted, without the items necessary. Also, if you have SOME of the items necessary, they will be used.
-No Dash Cooldown - With the Shield of Cthulu, it makes it so you can dash with no cooldown inbetween, and yes, you can basically fly with this.
-Infinite Double Jump V2 - With this version, you no longer need the could in a bottle accessory to jump infinitely, and you can just jump infinitely without it.
-No Dash Cooldown V2 - Makes you dash olike the Shield Of Cthulu and you can dash with no cooldown, allowing you to dash without any item that allows you to dash.
+No Dash Cooldown - With the Shield of Cthulu, it makes it so you can dash with no cooldown in between, and yes, you can basically fly with this.
+Infinite Double Jump V2 - With this version, you no longer need the cloud in a bottle accessory to jump infinitely, and you can just jump infinitely without it.
+No Dash Cooldown V2 - Makes you dash like the Shield Of Cthulu and you can dash with no cooldown, allowing you to dash without any item that allows you to dash.
 
-Thats everything for now, but there will be updates in the future, sometimes even multiple in a day, but dont get your hopes up on that!
+That's everything for now, but there will be updates in the future, sometimes even multiple in a day, but don't get your hopes up on that!
