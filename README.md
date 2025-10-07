@@ -1,4 +1,4 @@
-# TerrariaTrainerMenu
+# Turquoiz Terraria Menu
 This trainer was made by Cheat Engine and recieves support and updates including new mods and stuff like that
 
 To use it, open when ur in the game (just run the .exe and alt+tab to it) and use the checkboxes and whatnot
