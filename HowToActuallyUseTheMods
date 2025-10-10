@@ -1,3 +1,5 @@
+As Of V14
+
 Client-Sided Mods:
 
 IN ALL CLIENT SIDED MODS, THEY WILL EITHER NOT WORK MUCH OR AT ALL IN MULTIPLAYER SERVERS. DO NOT EXPECT THESE TO WORK OUTSIDE OF SINGLEPLAYER.
@@ -9,7 +11,6 @@ Insta Break - Not confirmed to work in only SP either, but this just makes it so
 Infinite Items - Makes it so when you place a tile or use a potion, the amount doesn't go down, and if you try to swap a tile for another you will actually gain one.
 Insta Kill - Confirmed SP only, it makes it so you set the entity's health you hit to 0.
 Freeze Time - Sometimes this doesn't work right, but it only works in SP, and it just makes time stop going forward.
-Inverted Gravity - When clicked, it inverts your gravity. Can be used on MP, but can glitch out so i only put it here.
 
 Server-Sided Mods:
 
@@ -21,12 +22,22 @@ No Dash Cooldown - With the Shield of Cthulu, it makes it so you can dash with n
 Infinite Double Jump V2 - With this version, you no longer need the cloud in a bottle accessory to jump infinitely, and you can just jump infinitely without it.
 No Dash Cooldown V2 - Makes you dash like the Shield Of Cthulu and you can dash with no cooldown, allowing you to dash without any item that allows you to dash.
 Free Crafting - You can craft with no cost.
-E.D.I aka Exponential Damage Increase - This makes it so your damage stat (from wrath potion) is no longer reset, so it will keep going up if you have a wrath pot on.
+No Damage Reset (Melee only) - This makes it so your damage stat (from wrath potion) is no longer reset, so it will keep going up if you have a wrath pot on.
 Damage Multiplier (Box) - You put a number here, and it changes your dmg multiplier (wrath pot) to the num you put it. Also if you make it empty it will give you info about how it needs a number but its fine ill change it next version or maybe a hotfix.
-100% Endurance Buff - Gives you 100% damage reduction (THIS DOES NOT WORK ON ALL DAMAGE SOURCES, ALSO YOU STILL TAKE 1 DMG)
+100% Endurance Buff - Gives you 100% damage reduction (THIS DOES NOT WORK ON ALL DAMAGE SOURCES, ALSO YOU STILL TAKE 1 DMG).
+True Insta Break - Gets rid of the cooldown on mining and lets you insta mine.
+999999 Minion Slots - Gives you a maximum of 999999 minions at a time.
+Max Health (Box) - Insert a number, and it changes your max health, makes sure to use No Max Health Reset.
+No Max Health Reset - Your max hp value no longer resets, with the same downside as No DMG Reset.
+No Health Pot Cooldown - Removes the effect of potion sickness (you can still see the it, but it does nothing).
+Full HP Potions - Makes all Health Poptions heal you for 2147483647 HP.
+Swiftness (Box) - Put a number in, and it changes your moveSpeed. Use No Speed Reset.
+No Speed Reset - Your speed doesnt reset.
+Inverted Gravity - When clicked, it inverts your gravity.
 
 Utility Mods:
 
-Redefine Player - A button that redefines the player symbol incase some mods break, would recommend pressing this on launch
+Redefine Player - A button that redefines the player symbol incase some mods break, would recommend pressing this when you join a server or world.
+Show Patch Notes - Expands the window to show the patch notes of the current version.
 
 That's everything for now, but there will be updates in the future!
